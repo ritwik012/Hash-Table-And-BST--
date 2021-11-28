@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HashDemo
+namespace HashTablesAndBST
 {
     public class MyMapNode<K, V>
     {
